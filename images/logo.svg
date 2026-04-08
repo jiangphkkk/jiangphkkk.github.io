@@ -1,0 +1,14 @@
+<svg width="440" height="96" viewBox="0 0 440 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="96" height="96" rx="24" fill="url(#g1)"/>
+  <path d="M28 56L48 32L68 56" stroke="#ECFEFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 64H60" stroke="#99F6E4" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="48" cy="48" r="5" fill="#ECFEFF"/>
+  <rect x="118" y="24" width="200" height="32" rx="16" fill="#0D9488" fill-opacity="0.14"/>
+  <text x="118" y="62" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#134E4A">ShangSS</text>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="96" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+</svg>
